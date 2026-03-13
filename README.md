@@ -1,2 +1,5 @@
 # E-Commere-Project1010
-E-Commerce Project 1010-Devloper-Anmol-Shisodia1551
+# E-Commerce Project
+Open the Index.html
+Then, Open the style.css
+Then,Script.js
